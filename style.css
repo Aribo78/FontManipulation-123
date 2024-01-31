@@ -20,3 +20,9 @@ h3{
     background-color: grey;
     color: white
 }
+video{
+    box-shadow:5px 5px 50px blue;
+}
+canvas{
+    box-shadow:5px 5px 50px blue;
+}
